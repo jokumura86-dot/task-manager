@@ -152,3 +152,7 @@ button:hover {
     margin-left: auto;
   }
 }
+
+.todo-container h1 {
+  color: #08060d;
+}
